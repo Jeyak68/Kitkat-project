@@ -1,0 +1,186 @@
+:root {
+  --color-primary: rgb(33, 30, 26);
+  --color-secondary: rgb(15, 165, 170);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.sandal_background {
+  background-color: rgb(186, 134, 50);
+}
+
+.orange_background {
+  background-color: rgb(166, 64, 39);
+}
+
+.secondary {
+  background-color: rgb(15, 165, 170);
+}
+
+.secondary_text_color {
+  color: rgb(15, 165, 170);
+}
+
+.sample {
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+}
+
+.banner_height {
+  height: 36rem;
+}
+
+.home_banner_height {
+  height: 26rem;
+}
+
+.banner_height {
+  height: 44rem;
+}
+
+.sub_footer_background {
+  background-color: rgb(21, 22, 24);
+}
+
+.footer_background {
+  background-color: rgb(35, 36, 40);
+}
+
+.gallery_page_image {
+
+  width: fit-content;
+  max-height: 206px !important;
+}
+
+.feltering_menu li:hover {
+  color: rgb(166, 64, 39);
+  background: #fff;
+}
+
+.gallery_background_image {
+  background-image: url("../images/photo10.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+.history_background_image {
+  background-image: url("../images/bg_1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+.eye_index_background_image {
+  background-image: url("../images/bg_1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+
+.festival_background_image {
+  background-image: url("../images/photo8.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+.shop-background_image
+{
+  background-image: url("../images/bniii.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.background_image
+{
+  background-image: url("../images/aboutus.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.index-background_image
+{
+  background-image: url("../images/b1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.eye-background_image
+{
+  background-image: url("../images/eye1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+.HomePage_textcolor {
+  color: rgb(81, 81, 81);
+}
+
+.ContactNow_button {
+  background-color: rgb(29, 28, 28);
+}
+
+.ContactNow_button:hover {
+  background-color: rgb(255, 255, 255);
+  color: rgb(114, 15, 131);
+}
+
+/* .react-multiple-carousel__arrow--left {
+  left: calc(0% + 1px) !important;
+}
+
+.react-multiple-carousel__arrow--right {
+  right: calc(0% + 1px);
+} */
+
+.bg_light
+{
+  background-color: #f8f9fa!important;
+}
+.bg_white
+{
+  background-color:rgb(255,255,255);
+
+}
+.appoinment_bg
+{
+  background:#97c249!important;
+}
+ 
+.eye-appointment_bg
+{
+  background:#007bff;
+}
+.footer_bg
+{
+  background: #283E56;
+}
+.text_white
+{
+  color: #fff;
+
+}
+.footer_text
+{
+  color: rgba(255, 255, 255, 0.5);
+
+}
+.text-blue
+{
+  color: #007bff;
+
+}
+.shop-heading
+{
+  color:#96eefd;
+}
+.news-text
+{
+  color:#006600;
+}
